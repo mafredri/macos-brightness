@@ -3,7 +3,6 @@ package main
 /*
 #cgo LDFLAGS: -framework CoreDisplay -framework CoreGraphics
 
-#include <stdio.h>
 #include <CoreGraphics/CoreGraphics.h>
 
 // Private APIs for brightness.
