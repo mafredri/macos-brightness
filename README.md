@@ -24,3 +24,7 @@ $ brightness
 ```console
 $ brightness -b 90.5
 ```
+
+## See also
+
+- [macos-darkmode](https://github.com/mafredri/macos-darkmode): Simple CLI for controlling macOS Dark Mode via Apples private API
